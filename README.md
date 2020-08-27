@@ -1,11 +1,11 @@
 ### Hi there, I'm Alang - aka [Babegadev][website] 👋
 
 ## I'm a Student and Developer!
-- 🔭 I’m currently working on a [Python Project][website]!
-- 🌱 I’m currently learning Python and JS
-- 👯 I’m looking to find more programming friends
-- 🥅 2020 Goals: Finish my Python and JavaScript course
-- ⚡ Fun fact: I love to code and go cycling
+- 🔭  I’m currently working on a [Python Project][website]!
+- 🌱  I’m currently learning Python and JS
+- 👯  I’m looking to find more programming friends
+- 🥅  2020 Goals: Finish my Python and JavaScript course
+- ⚡  Fun fact: I love to code and go cycling
 
 ### Connect with me:
 
