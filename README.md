@@ -1,10 +1,10 @@
 ### Hi there, I'm Alang - aka [Babegadev][website] 👋
 
 ## I'm a Student and Developer!
-- 🔭  I’m currently working on a [Python Project][website]!
+- 🔭  I’m currently working on a [JavaScript Project][website]!
 - 🌱  I’m currently learning Python and JS
 - 👯  I’m looking to find more programming friends
-- 🥅  2020 Goals: Finish my Python and JavaScript course
+- 🥅  2020 Goals: Master JavaScript and Python
 - ⚡  Fun fact: I love to code and go cycling
 
 ### Connect with me:
@@ -36,7 +36,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=babegadev&show_icons=true&hide_border=true" />
+<img align="left" alt="babegadev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=babegadev&show_icons=true&hide_border=true" />
 
 [website]: https://babega.com
 [twitter]: https://twitter.com/babegadev
