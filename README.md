@@ -40,6 +40,10 @@
 
 <img align="left" alt="babegadev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=babegadev&show_icons=true&hide_border=true" />
 
+<br />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babegadev&layout=compact&hide_border=true&hide=html" alt="babegadev" /></p>
+
 [website]: https://babega.com
 [twitter]: https://twitter.com/babegadev
 [youtube]: https://www.youtube.com/channel/UCoAVKhyoADDLM7nygqmYWDQ
