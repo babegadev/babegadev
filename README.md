@@ -1,7 +1,7 @@
 ### Hi there, I'm Alang - aka [Babegadev][website] 👋
 
 ## I'm a Student and Developer!
-- 🔭  - I’m currently working on a [JavaScript Project][website]!
+- 🔭  - I’m currently working on a [JavaScript Project](https://github.com/babegadev?tab=repositories)!
 - 🌱  - I’m currently learning Python and JS
 - 👯  - I’m looking to find more programming friends
 - 🥅  - 2020 Goals: Master JavaScript and Python
