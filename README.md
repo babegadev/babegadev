@@ -1,6 +1,6 @@
 ### Hi there, I'm Alang - aka [Babegadev][website] 👋
 
-## I'm a Student and Developer!
+## I'm a Student Developer!
 - 🔭  - I’m currently working on [Hemisphere Project Research](https://hemisphereproject.com)!
 - 🌱  - I’m currently learning Arduino and JavaScript (React)
 - 👯  - I’m looking to find more programming friends
