@@ -1,10 +1,10 @@
 ### Hi there, I'm Alang - aka [Babegadev][website] 👋
 
 ## I'm a Student and Developer!
-- 🔭  - I’m currently working on [Nuw.me - A URL Shortener](https://nuw.me)!
+- 🔭  - I’m currently working on [Hemisphere Project Research](https://hemisphereproject.com)!
 - 🌱  - I’m currently learning Arduino and JavaScript (React)
 - 👯  - I’m looking to find more programming friends
-- 🥅  - 2021 Goals: Academic Achievments
+- 🥅  - 2024 Goals: IB Exams 🤯
 - ⚡ - Fun fact: I like cycling
 
 ### Connect with me:
