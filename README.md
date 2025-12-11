@@ -1,17 +1,15 @@
-### Hi there, I'm Alang - aka [Babegadev][website] 👋
+### Hi there, I'm Alang 👋
 
 ## I'm a Student Developer!
-- 🔭  - I’m currently working on [Hemisphere Project Research](https://hemisphereproject.com)!
-- 🌱  - I’m currently learning Arduino and JavaScript (React)
-- 👯  - I’m looking to find more programming friends
-- 🥅  - 2024 Goals: IB Exams 🤯
-- ⚡ - Fun fact: I like cycling
+- 🔭  - Currently working on: [CAD Grinding 🤯](https://www.tootalltoby.com/practice/datacard/albegmahareza)!
+- 🌱  - Studying at UofT (CS Undergrad)
+- 👾  - Makes stuffs. Usually something with Pi's, Arduinos, and Web Apps
+- ⚡  - I like running, cycling, and would like to complete a triathlon 🤷
 
 ### Connect with me:
 
 [<img align="left" alt="babega.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="babegadev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="babegadev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="babegadev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -36,11 +34,11 @@
 
 ---
 
-![Babegadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=babegadev&show_icons=true&theme=tokyonight)
+[![babegadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=babegadev)]
 
 <br />
 
 [website]: https://babega.com
 [twitter]: https://twitter.com/babegadev
-[youtube]: https://www.youtube.com/channel/UCoAVKhyoADDLM7nygqmYWDQ
-[instagram]: https://instagram.com/babegadev
+[youtube]: https://www.youtube.com/@albegmahareza
+[instagram]: https://instagram.com/albegmahareza
