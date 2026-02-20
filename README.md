@@ -1,4 +1,4 @@
-# Alang
+# Alang Babega Mahareza
 
 **Builder** · **CS @ UofT** · **Indonesia → Toronto**
 
