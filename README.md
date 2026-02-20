@@ -1,33 +1,49 @@
-### Hi there, I'm Alang 👋
+# Alang
 
-## I'm a Student Developer!
-- 🔭  - Currently working on: [CAD Grinding 🤯](https://www.tootalltoby.com/practice/datacard/albegmahareza)!
-- 🌱  - Studying at UofT (CS Undergrad)
-- 👾  - Makes stuffs. Usually something with Pi's, Arduinos, and Web Apps
-- ⚡  - I like running, cycling, and would like to complete a triathlon 🤷
+**Builder** · **CS @ UofT** · **Indonesia → Toronto**
 
-### Connect with me:
-[<img align="left" alt="babega.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="babegadev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="babegadev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+I make things — usually with code, sometimes with solder, occasionally with a 3D printer.
 
-<br />
+---
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+### ⚡ What I'm into
+
+- **🖥️ Infrastructure** — Running a homelab from Indonesia that I manage remotely
+- **🔧 Hardware** — Raspberry Pi, Arduino, IoT, things that do stuff in the real world
+- **🌐 Web** — Full-stack when needed, backend when preferred
+
+---
+
+### 🛠️ Some things I've built
+
+| | |
+|---|---|
+| 🖥️ | Self-hosted infrastructure on Proxmox |
+| 🛥️ | IoT trash collector ship prototype [@Hemisphere Project](https://www.instagram.com/hemisphere.project) |
+| 📡 | NOAA & ADSB satellite antennas |
+| 📊 | Custom datalogger with ESP8266 + web dashboard |
+| ❌ | Wifi enabled exit button hacker (opens doors through the exit button) |
 
 
-[website]: https://babega.com
-[twitter]: https://twitter.com/babegadev
-[youtube]: https://www.youtube.com/@albegmahareza
-[instagram]: https://instagram.com/albegmahareza
+---
+
+### 🧰 Tools I use
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+*Currently: Trying to make something useful.*
+
+[![Website](https://img.shields.io/badge/-babega.com-000?style=flat-square&logo=safari&logoColor=white)](https://babega.com)
+[![Instagram](https://img.shields.io/badge/-@albegmahareza-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/albegmahareza)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@albegmahareza)
